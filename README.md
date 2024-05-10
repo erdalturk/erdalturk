@@ -48,9 +48,9 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/erdalturk/readmePic/blob/44c45b558c885b39e5a04a1d3f11d08445fe4de7/Bird%20Wing%20Bottom%20Left.png">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=erdalturk&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/erdalturk/readmePic/blob/44c45b558c885b39e5a04a1d3f11d08445fe4de7/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
 
@@ -61,9 +61,9 @@
  
  <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/erdalturk/readmePic/blob/44c45b558c885b39e5a04a1d3f11d08445fe4de7/Bird%20Wing%20Left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdalturk&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/erdalturk/readmePic/blob/44c45b558c885b39e5a04a1d3f11d08445fe4de7/Bird%20Wing%20Right.png">
   </a>
 </p>
  
@@ -75,9 +75,9 @@
   
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/erdalturk/readmePic/blob/44c45b558c885b39e5a04a1d3f11d08445fe4de7/GitHub%20Mascot%20Pixel.gif">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdalturk&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/erdalturk/readmePic/blob/44c45b558c885b39e5a04a1d3f11d08445fe4de7/GitHub%20Mascot%20Pixel.gif">
   </a>
 </p>
  
